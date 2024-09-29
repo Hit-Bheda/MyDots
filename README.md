@@ -1,5 +1,3 @@
-Here’s a properly formatted `README.md` for your _MyDots_ dotfiles repository, configured using **GNU Stow**:
-
 # MyDots
 
 **MyDots** is a collection of my personal configuration files (dotfiles), managed using **GNU Stow**. This repository helps me organize, version, and deploy my dotfiles across multiple systems effortlessly.
